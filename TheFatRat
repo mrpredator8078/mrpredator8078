@@ -1,0 +1,48 @@
+──(kali㉿kali)-[~]
+┌──(kali㉿kali)-[~]
+└─$ >....                                                                                                         
+LWARE_ANALYSIS_OF_BACKDOOR_CREATOR_FATRAT)
+- Youtube Videos 
+        - [How To Download & Install TheFatRat](https://www.youtube.com/watch?v=FsSgJFxyzFQ)
+        - [TheFatRat 1.9.6 - Trodebi ( Embed Trojan into Debian Package )](https://www.youtube.com/watch?v=NCsrcqhUBCc&feature=youtu.be&list=PLbyfDadg3caj6nc3KBk375lKWDOjiCmb8)
+        - [hacking windows 10 with TheFatRat](https://www.youtube.com/watch?v=bFXVAXRXE9Q )
+        - [Hacking Windows using TheFatRat + Apache2 Server + Ettercap + Metasploit](https://www.youtube.com/watch?v=FlXMslSjnGw)
+        - [Hacking with a Microsoft Office Word Document from TheFatRat](https://www.youtube.com/watch?v=lglOXojT84M)
+        - [XSS to powershell attack and bypass Antivirus using BeEF + TheFatRat + Metasploit](https://www.youtube.com/watch?v=pbvg7pgxVjo)
+        - [TheFatRat - Hacking Over WAN - Embedding Payload in Original Android APK - Without Port Forwarding](https://www.youtube.com/watch?v=XLNigYZ5-fM)
+        - [How To Automatically Embed Payloads In APK's - Evil-Droid, Thefatrat & Apkinjector](https://www.youtube.com/watch?v=C_Og6LnEZSg)
+        - [Bind FUD Payload with JPG and Hack over WAN with TheFatRat](https://www.youtube.com/watch?v=VPl1TMCAIy8)
+
+
+## Changelog
+All notable changes to this project will be documented in this [file](https://github.com/Screetsec/thefatrat/blob/master/CHANGELOG.md).
+
+### About issues
+- Read the [document](https://github.com/Screetsec/TheFatRat/blob/master/issues.md) before making an issue
+
+## Alternative Best Tool - Generating Backdoor & Bypass 
+- [Veil-Framework /Veil](https://github.com/Veil-Framework/Veil) - Veil Framework 
+- [Shellter](https://www.shellterproject.com/download/) - Shellter AV Evasion Artware
+- [Unicorn](https://github.com/trustedsec/unicorn) - Trustedsec 
+- [MSFvenom Payload Creator (MSFPC)](https://github.com/g0tmi1k/msfpc) - g0tmi1k
+- [Venom](https://github.com/r00t-3xp10it/venom) - Pedro Ubuntu
+- [Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) - Diego Cornacchini
+
+
+## Credits & Thanks
+- [Offensive Security](https://www.offensive-security.com/) - Offensive Security
+- [dracOs Linux](https://dracos-linux.org/) - Penetration Testing OS From Indonesia
+- [peterpt](https://github.com/peterpt) - Maintainer & Contributor
+- [Dana James Traversie](https://github.com/dana-at-cp/backdoor-apk) - backdoor_apk
+- [z0noxz](https://github.com/z0noxz/powerstager) - Powerstager
+- [TrustedSec](https://github.com/trustedsec/unicorn) - Unicorn
+- [Raphael Mudge](https://github.com/rsmudge) - External Source
+- [astr0baby](https://astr0baby.wordpress.com) - Reference Source
+- [NgeSEC](https://ngesec.id/) Community
+- [Gauli(dot)Net](https://gauli.net/) - Lab Penetration
+
+## License
+TheFatRat is made with 🖤 by Edo Maland & All [Contributors](https://github.com/Screetsec/TheFatRat/graphs/contributors). See the **License** file for more details.
+
+
+ 
